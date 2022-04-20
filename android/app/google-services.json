@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "372422332861",
+    "project_id": "renowork-d2bec",
+    "storage_bucket": "renowork-d2bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372422332861:android:0246ffbcb1c7e67c1ac2d4",
+        "android_client_info": {
+          "package_name": "com.dream2day.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372422332861-8e1h0attggdmgr9bi482vbo0nr27g8p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dream2day.customer",
+            "certificate_hash": "5bae019847b4b52f8325601e8fff0ccc2ef64572"
+          }
+        },
+        {
+          "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU03tNQOnj509wrrHq4IS926t3qD-8rG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372422332861:android:c2e815cd10dade0f1ac2d4",
+        "android_client_info": {
+          "package_name": "com.renowork.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372422332861-4b8s16r0v5dh4taravthu9ur4297547u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renowork.agent",
+            "certificate_hash": "fc836190168e3a396881fb5de49b7a533386758d"
+          }
+        },
+        {
+          "client_id": "372422332861-a76ugsk9f0b1la3o7d28cf3mo73ukb1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renowork.agent",
+            "certificate_hash": "5bae019847b4b52f8325601e8fff0ccc2ef64572"
+          }
+        },
+        {
+          "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU03tNQOnj509wrrHq4IS926t3qD-8rG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372422332861:android:b1e359a09a35d9231ac2d4",
+        "android_client_info": {
+          "package_name": "com.renowork.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372422332861-0guc39oid9mms8ns6hcr0jih287upn2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renowork.customer",
+            "certificate_hash": "5bae019847b4b52f8325601e8fff0ccc2ef64572"
+          }
+        },
+        {
+          "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU03tNQOnj509wrrHq4IS926t3qD-8rG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372422332861-n0o92hnp5doutf5ui7q7342gi8ipj3ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+{
+    "select_language" : "भाषा को हिंदी में बदलें",
+    "welcome" : "🎉 Welcome !",
+    "welcometext" : "Welcome to Reno Work. This platform will help you find the job of your choice easily. It is a social platform where worker, painter, tiler, electrician, and many more jobs can be easily found according to their interest. We will be happy to help you through this.",
+    "create_account" : "Create Account",
+    "enter_phone" : "Enter your phone",
+    "phone_number" : "Phone Number",
+    "phone_privacy_text" : "By entering your number, you're agreeing to our Terms of Service and Privacy Policy. Thanks!",
+    "next" : "Next",
+    "enter_otp" : "Enter OTP",
+    "otp_info" : "OTP has been send to your phone number.",
+    "resend_otp" : "Resend OTP",
+    "verify" : "Verify",
+    "location_not_enabled" : "Your location is not enable, Enable to View Work in your area.",
+    "enter_your_name" : "Enter your name",
+    "your_name" : "Your name",
+    "update_location" : "Update Location",
+    "update" : "Update"
+ }
